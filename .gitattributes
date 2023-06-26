@@ -1,4 +1,1 @@
 checkpoints/ filter=lfs diff=lfs merge=lfs -text
-./mink filter=lfs diff=lfs merge=lfs -text
-mink/checkpoint_NoneRes16UNet18Dbest_val.pth filter=lfs diff=lfs merge=lfs -text
-./mink/checkpoint_NoneRes16UNet18Dbest_val.pth filter=lfs diff=lfs merge=lfs -text
