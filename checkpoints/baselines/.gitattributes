@@ -1,2 +1,1 @@
-scannet/mink filter=lfs diff=lfs merge=lfs -text
-scannet/spconv filter=lfs diff=lfs merge=lfs -text
+scannet/** filter=lfs diff=lfs merge=lfs -text
