@@ -1,1 +1,2 @@
 spconv filter=lfs diff=lfs merge=lfs -text
+mink filter=lfs diff=lfs merge=lfs -text
